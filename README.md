@@ -1,5 +1,5 @@
-# PCB Design and Fabrication Portfolio
-This portfolio showcases my previous work in PCB design and fabrication. It includes pictures of various PCBs that I have designed and fabricated using EasyEDA PCB tool.
+# PCB Design and Fabrication Portfolio (Updating)
+This portfolio showcases my previous work in PCB design and fabrication. It includes pictures of various PCBs that I have designed and fabricated using PCB Designing tool. 
 
 ## Projects
 This portfolio includes pictures of the following PCBs that I have designed and fabricated:
