@@ -1,20 +1,20 @@
 # PCB Design and Fabrication Portfolio
-This portfolio showcases my previous work in PCB design and fabrication. It includes pictures of various PCBs that I have designed and fabricated using EasyEDA PCB tool.
+This portfolio showcases my previous work in PCB design and fabrication. It includes pictures of various PCBs that I have designed and fabricated using PCB Design Software.
 
 
 ## Projects
 This portfolio includes pictures of the following PCBs that I have designed and fabricated:
 
-- Home Automation PCB
-- Motor driver circuit
+- A Tiny ESP32 WROM Based Home Automation PCB using SMD Components.
+- A Motherboard for Controlling 12 Stepper Motors for a Robot
 - UWB Based Circuit Board
 - And more!
 
 ## Skills
 My skills in PCB design and fabrication include:
 
-- Designing and routing PCBs using EASY EDA CAD, Shifting progressively to Altium.
-- Knowledge of PCB layout design principles
+- Designing and routing PCBs using EASY EDA, Shifting progressively to Altium.
+- Knowledge of PCB schematic and layout design principles
 - Creating custom footprints for components
 - Generating Gerber files for fabrication
 - Selecting appropriate components and connectors for specific applications
