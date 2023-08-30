@@ -27,7 +27,7 @@ Here are the pictures of my previous PCB design and fabrication work:
 
 |  |  |  |  |
 | ------- | ------- | ------- | ------- |
-| <img src='pcb_images/Screenshot 2023-08-29 at 3.39.42 PM' width='300' /> | <img src='pcb_images/cytron-1.png' width='300' /> | <img src='pcb_images/Screenshot 2023-08-29 at 3.39.46 PM' width='300' /> | <img src='pcb_images/Screenshot 2023-08-29 at 3.39.46 PM' width='300' /> |
+| <img src='pcb_images/Screenshot 2023-08-29 at 3.39.42 PM' width='300' /> | <img src='pcb_images/cytron-1.png' width='300' /> | <img src='pcb_images/Screenshot 2023-08-29 at 3.39.46 PM.png' width='300' /> | <img src='pcb_images/Screenshot 2023-08-29 at 3.39.46 PM.png' width='300' /> |
 
 
 ## Contact
