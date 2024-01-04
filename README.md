@@ -24,7 +24,7 @@ My skills in PCB design and fabrication include:
 
 | Voltage Drop Analysis (Click to play)| Current Density Analysis (Click to play) |
 | :---------------------:|:------------------------:|
-| [![Voltage Drop Analysis](https://img.youtube.com/vi/SNvbFkTi_9Y/5.jpg)](https://www.youtube.com/watch?v=SNvbFkTi_9Y) | [![Current Density Analysis](https://img.youtube.com/vi/WvsmaPYhfzU/5.jpg)](https://www.youtube.com/watch?v=WvsmaPYhfzU) |
+| [![Voltage Drop Analysis](https://img.youtube.com/vi/SNvbFkTi_9Y/0.jpg)](https://www.youtube.com/watch?v=SNvbFkTi_9Y) | [![Current Density Analysis](https://img.youtube.com/vi/WvsmaPYhfzU/0.jpg)](https://www.youtube.com/watch?v=WvsmaPYhfzU) |
 
 
 ## Pictures
