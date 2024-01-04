@@ -22,13 +22,9 @@ My skills in PCB design and fabrication include:
 
 ## PDN Analyzer Simulation (NEW !!!!)
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/SNvbFkTi_9Y" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WvsmaPYhfzU" frameborder="0" allowfullscreen></iframe>
-</div>
+| Voltage Drop Analysis | Current Density Analysis |
+| :---------------------:|:------------------------:|
+| [![Voltage Drop Analysis](https://img.youtube.com/vi/SNvbFkTi_9Y/0.jpg)](https://www.youtube.com/watch?v=SNvbFkTi_9Y) | [![Current Density Analysis](https://img.youtube.com/vi/WvsmaPYhfzU/1.jpg)](https://www.youtube.com/watch?v=WvsmaPYhfzU) |
 
 
 ## Pictures
