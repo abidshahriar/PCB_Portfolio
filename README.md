@@ -23,6 +23,8 @@ My skills in PCB design and fabrication include:
 ## PDN Analyzer Simulation (NEW !!!!)
 [![Altium PDN Analyzer: Voltage Drop Analysis](https://img.youtube.com/vi/SNvbFkTi_9Y/0.jpg)](https://www.youtube.com/watch?v=SNvbFkTi_9Y)
 
+[![Altium PDN Analyzer: Current Density Analysis](https://img.youtube.com/vi/WvsmaPYhfzU/1.jpg)](https://www.youtube.com/watch?v=WvsmaPYhfzU)
+
 
 ## Pictures
 Here are the pictures of my previous PCB design and fabrication work:
