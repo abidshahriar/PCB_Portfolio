@@ -20,6 +20,10 @@ My skills in PCB design and fabrication include:
 - Soldering and assembling PCBs
 - Familiarity with various fabrication techniques such as SMT and through-hole assembly
 
+## PDN Analyzer Simulation (NEW !!!!)
+1. Voltage Drop Across Circuit: [![Altium PDN Analyzer: Voltage Drop Analysis](https://img.youtube.com/vi/jQ8dZwTw8wQ/0.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+
+
 ## Pictures
 Here are the pictures of my previous PCB design and fabrication work:
 
