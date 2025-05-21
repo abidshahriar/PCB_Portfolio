@@ -38,7 +38,7 @@ Here are the pictures of my previous PCB design and fabrication work:
 
 
 ## Contact
-If you are interested in my services for your next PCB design and fabrication project, please feel free to contact me.
+Please feel free to contact me.
 
 Email: **abidshahriar97@gmail.com**
 
