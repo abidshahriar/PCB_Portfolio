@@ -15,7 +15,7 @@ This portfolio includes pictures of the following PCBs that I have designed and 
 ## Skills
 My skills in PCB design and fabrication include:
 
-- Designing and routing PCBs using EASY EDA CAD, transitioning progressively to Altium.
+- Designing and routing PCBs, transitioning progressively to Altium.
 - Knowledge of PCB layout design principles
 - Creating custom footprints for components
 - Generating Gerber files for fabrication
