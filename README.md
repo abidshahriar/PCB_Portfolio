@@ -1,4 +1,4 @@
-# PCB Design and Fabrication Portfolio (Updating)
+# PCB Design and Fabrication Portfolio (Updating, And Currently learning Hi-speed PCB Design )
 This portfolio showcases my previous work in PCB design and fabrication. It includes pictures of various PCBs that I have designed and fabricated using PCB Designing tools.
 
 ## Projects
@@ -8,6 +8,7 @@ This portfolio includes pictures of the following PCBs that I have designed and 
 - Motor driver circuit
 - UWB Based Circuit Board
 - And more!
+- Highspeed PCB Design Commming Sooonnnnnn!!!!!!!
   
 ## Research Article
 > [1] A. Shahriar, Anik, M. H. (2025). CHIGLU: A Modular Hardware for Stepper Motorized Quadruped Robot—Design Approach and Analysis. *MethodsX*, 103270. [https://doi.org/10.1016/j.mex.2025.103270](https://doi.org/10.1016/j.mex.2025.103270) 
