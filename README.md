@@ -10,7 +10,8 @@ This portfolio includes pictures of the following PCBs that I have designed and 
 - And more!
 - Highspeed PCB Design Commming Sooonnnnnn!!!!!!!
   
-## Research Article
+## Research Article (latest inclusion: Year 2025)
+Read my article where I've used Clever design practices and how I optimize the Power Density Across the Board: 
 > [1] A. Shahriar, Anik, M. H. (2025). CHIGLU: A Modular Hardware for Stepper Motorized Quadruped Robot—Design Approach and Analysis. *MethodsX*, 103270. [https://doi.org/10.1016/j.mex.2025.103270](https://doi.org/10.1016/j.mex.2025.103270) 
 
 ## Skills
