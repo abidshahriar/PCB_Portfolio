@@ -24,6 +24,7 @@ My skills in PCB design and fabrication include:
 - Selecting appropriate components and connectors for specific applications
 - Soldering and assembling PCBs
 - Familiarity with various fabrication techniques such as SMT and through-hole assembly
+- Design for Manufacturing
 
 ## PDN Analyzer Simulation (NEW !!!!)
 
