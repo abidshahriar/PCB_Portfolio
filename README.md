@@ -33,12 +33,15 @@ My skills in PCB design and fabrication include:
 | [![Voltage Drop Analysis](https://img.youtube.com/vi/SNvbFkTi_9Y/0.jpg)](https://www.youtube.com/watch?v=SNvbFkTi_9Y) | [![Current Density Analysis](https://img.youtube.com/vi/WvsmaPYhfzU/0.jpg)](https://www.youtube.com/watch?v=WvsmaPYhfzU) |
 
 ## Pictures
+Here are the pictures of my previous PCB design and fabrication work:
 
 <!-- START IMAGES -->
 |  |  |  |  |  |
 | ------- | ------- | ------- | ------- | ------- |
-| <img src='pcb_images/placeholder.png' width='300' /> |
-<!-- END IMAGES -->
+| <img src='pcb_images/Screenshot 2023-08-29 at 3.39.46 PM.png' width='300' /> | <img src='pcb_images/esp 32 .jpeg' width='300' /> | <img src='pcb_images/esp32 s.jpeg' width='300' /> | <img src='pcb_images/esp32.jpeg' width='300' /> | <img src='pcb_images/uwb 3d.jpeg' width='300' /> |
+| <img src='pcb_images/uwb 3d.jpeg' width='300' /> | <img src='pcb_images/UWB Based Chip.jpeg' width='300' /> | <img src='pcb_images/Home Automation.jpeg' width='300' /> | <img src='pcb_images/Step Sch.png' width='300' /> | <img src='pcb_images/sound x.jpeg' width='300' /> |
+| <img src='pcb_images/UWBX.jpeg' width='300' /> | <img src='pcb_images/sound x 3d.jpeg' width='300' /> | <img src='pcb_images/UWBX.jpeg' width='300' /> | <img src='pcb_images/1693209530959.jpeg' width='300' /> | <img src='pcb_images/1692364541085.jpeg' width='300' /> |
+| <img src='pcb_images/ATtiny LED.png' width='300' /> |
 
 ## Contact
 Please feel free to contact me.
