@@ -1,34 +1,50 @@
 import os
+import re
 
-def generate_image_markdown(num_cols, dir):
-    markdown = "|"
-    for i in range(num_cols):
-        markdown += f"  |"
-    markdown += "\n"
-    markdown += "|"
-    for i in range(num_cols):
-        markdown += " ------- |"
-    markdown += "\n"
-    images = sorted(os.listdir(dir))
-    num_images = len(images)
-    num_rows = num_images // num_cols
-    if num_images % num_cols != 0:
-        num_rows += 1
-    for i in range(num_rows):
-        markdown += "|"
-        for j in range(num_cols):
-            index = i * num_cols + j
-            if index < num_images:
-                image = images[index]
-                markdown += f" <img src='{dir}/{image}' width='300' /> |"
-            else:
-                markdown += " |"
-        markdown += "\n"
+# === Configurable Parameters ===
+image_dir = "pcb_images"
+readme_path = "README.md"
+start_marker = "<!-- START IMAGES -->"
+end_marker = "<!-- END IMAGES -->"
+num_cols = 5  # Number of columns per row in the table
+
+# === Helper: Generate Markdown Table ===
+def generate_markdown_table(images, num_cols):
+    markdown = "| " + " | ".join([""] * num_cols) + " |\n"
+    markdown += "| " + " | ".join(["-------"] * num_cols) + " |\n"
+
+    for i in range(0, len(images), num_cols):
+        row = images[i:i+num_cols]
+        markdown += "| " + " | ".join(
+            [f"<img src='{image_dir}/{img}' width='300' />" for img in row]
+        ) + " |\n"
     return markdown
 
+# === Main Update Function ===
+def update_readme_with_images():
+    # Get image files
+    images = sorted([
+        f for f in os.listdir(image_dir)
+        if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif'))
+    ])
+
+    # Generate image Markdown table
+    markdown_table = generate_markdown_table(images, num_cols)
+
+    # Load README.md
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Replace the image section using regex
+    pattern = f"{start_marker}.*?{end_marker}"
+    new_section = f"{start_marker}\n{markdown_table}\n{end_marker}"
+    updated_content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+
+    # Write back to README.md
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(updated_content)
+
+# === Run If Executed Directly ===
 if __name__ == "__main__":
-    num_cols = 4
-    dir = "pcb_images"
-    markdown = generate_image_markdown(num_cols, dir)
-    with open("test.md", "w") as f:
-        f.write(f"# My Project\n\n{markdown}")
+    update_readme_with_images()
+    print("✅ README.md image gallery updated successfully.")
