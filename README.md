@@ -7,6 +7,7 @@ This portfolio includes pictures of the following PCBs that I have designed and 
 - Home Automation PCB
 - Motor driver circuit
 - UWB Based Circuit Board
+- ATtint Ultra Low powered 7-segment LED clock
 - And more!
 - Highspeed PCB Design Commming Sooonnnnnn!!!!!!!
   
