@@ -44,6 +44,19 @@ Here are the pictures of my previous PCB design and fabrication work:
 | <img src='pcb_images/UWBX.jpeg' width='300' /> | <img src='pcb_images/sound x 3d.jpeg' width='300' /> | <img src='pcb_images/UWBX.jpeg' width='300' /> | <img src='pcb_images/1693209530959.jpeg' width='300' /> | <img src='pcb_images/1692364541085.jpeg' width='300' /> |
 | <img src='pcb_images/ATtiny Frontx.png' width='300' /> | <img src='pcb_images/ATtiny Back.png' width='300' /> | 
 
+## Flex Minaturized PCB ( Currently working on) 
+<img width="2558" height="1380" alt="image" src="https://github.com/user-attachments/assets/db905153-43c3-4aeb-adab-4c7dad25e0da" />
+
+Key Hardware Deliverables:
+
+Sensor Replacement: Modify the schematic and PCB layout to remove the existing accelerometer and integrate the Diodes AH1912 Hall-effect sensor.
+
+Motor Control Circuit Integration: Ensure the hardware connections between the STM32L011 microcontroller and the DVR8838 motor driver are correctly implemented.
+
+Battery Management Circuit Verification: Verify the existing circuitry for the MAX17048 battery monitor.
+
+Low power design optimization: Analyze the schematic for potential physical current leakage paths to ensure the hardware design can achieve ultra-low power targets.
+
 ## Contact
 Please feel free to contact me.
 
