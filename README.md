@@ -47,7 +47,7 @@ Here are the pictures of my previous PCB design and fabrication work:
 ## Flex Minaturized PCB ( Currently working on) 
 <img width="2558" height="1380" alt="image" src="https://github.com/user-attachments/assets/db905153-43c3-4aeb-adab-4c7dad25e0da" />
 
-Key Hardware Deliverables:
+Currently tackling this issues for this project and solving: 
 
 Sensor Replacement: Modify the schematic and PCB layout to remove the existing accelerometer and integrate the Diodes AH1912 Hall-effect sensor.
 
