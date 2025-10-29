@@ -7,8 +7,9 @@ This portfolio includes pictures of the following PCBs that I have designed and 
 - Home Automation PCB
 - Motor driver circuit
 - UWB Based Circuit Board
-- ATtint Ultra Low powered 7-segment LED clock
-- And more!
+- ATtiny Ultra Low powered 7-segment LED clock
+- Automotive grade CANBUS ckt
+- And more! (Honestly, at this point I lost count and my drive is a jungle of half-documented PCBs—sometimes I’m just as surprised as you’ll be! I might need a time machine to recall why I ever built them!)
 - Highspeed PCB Design Commming Sooonnnnnn!!!!!!!
   
 ## Research Article (latest inclusion: Year 2025)
